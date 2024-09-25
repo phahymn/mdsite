@@ -1,0 +1,9 @@
+site_name: My Product Documentation
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Products: products.md
+  - Contact Us: contact_us.md
